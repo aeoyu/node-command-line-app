@@ -1,4 +1,4 @@
-# CPNT262-a4 - Fetching API Data
+# CPNT262-a4 - Node command line app
 
 **Author :** Filora
 
